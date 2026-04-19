@@ -1,0 +1,42 @@
+versioned_docs/version-5.0/02-quickStart/03quickstartWithDockercompose.md
+  1c670fcf6d7c2480 14,77
+i18n/en/docusaurus-plugin-content-docs/version-5.0/02-quickStart/03quickstartWithDockercompose.md
+  1c670fcf6d7c2480 78
+docs/01-quickstart/03quickstartWithDockercompose.md
+  1c670fcf6d7c2480 18,179
+i18n/en/docusaurus-plugin-content-docs/current/01-quickstart/03quickstartWithDockercompose.md
+  1c670fcf6d7c2480 18,179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "a16491ff89731b99e43b9762e4a47e902d944678",
+  "prompts": {
+    "1c670fcf6d7c2480": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019da39c-6e7b-7f92-9c41-28e9474d0ba7",
+        "model": "gpt-5.4"
+      },
+      "human_author": "yx9o",
+      "messages": [],
+      "total_additions": 49,
+      "total_deletions": 49,
+      "accepted_lines": 23,
+      "overriden_lines": 26
+    },
+    "5d03a990d83da994": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019da39c-bd47-7580-a954-8b5e2b47d1c9",
+        "model": "unknown"
+      },
+      "human_author": "yx9o",
+      "messages": [],
+      "total_additions": 92,
+      "total_deletions": 98,
+      "accepted_lines": 7,
+      "overriden_lines": 45
+    }
+  }
+}
