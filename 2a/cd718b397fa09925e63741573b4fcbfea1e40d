@@ -1,0 +1,14 @@
+src/pages/team.md
+  h_4b4a4f6d863f9a 68
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "2acd718b397fa09925e63741573b4fcbfea1e40d",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
