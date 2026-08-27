@@ -1,0 +1,41 @@
+versioned_docs/version-5.0/06-bestPractice/02ratelimit.md
+  s_8086a0f8d8490d::t_9b5f393d1dd58a 53,64
+  s_8086a0f8d8490d::t_fdccc550bcc789 61-62
+  s_1c670fcf6d7c24::t_0e8c67d3e243df 108,124-125,136,145-146,152
+  s_1c670fcf6d7c24::t_69372448a321b7 35
+  s_1c670fcf6d7c24::t_ff6a05c24fc334 147
+  s_8086a0f8d8490d::t_d91f2094241360 51
+  s_8086a0f8d8490d::t_8090778c49cd86 50,63
+i18n/en/docusaurus-plugin-content-docs/version-5.0/06-bestPractice/02ratelimit.md
+  s_8086a0f8d8490d::t_d91f2094241360 51
+  s_8086a0f8d8490d::t_9b5f393d1dd58a 53,64
+  s_8086a0f8d8490d::t_065eaf0b357629 61-62
+  s_1c670fcf6d7c24::t_69372448a321b7 35
+  s_8086a0f8d8490d::t_8090778c49cd86 50,63
+  s_1c670fcf6d7c24::t_0e8c67d3e243df 108,124-125,137,146-147,153
+  s_1c670fcf6d7c24::t_ff6a05c24fc334 148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "a867cba647f315a6db8031d1acb53b3e3d86dca4",
+  "prompts": {},
+  "sessions": {
+    "s_1c670fcf6d7c24": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019da39c-6e7b-7f92-9c41-28e9474d0ba7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    },
+    "s_8086a0f8d8490d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ea9f0-188c-7162-b5db-b43e72ef508b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
